@@ -30,7 +30,7 @@
 
 ## 📫 How to reach me:
 - GitHub: [neostar08](https://github.com/neostar08)
-- Email: neostar08@example.com
+- Email: sher.4.95@mail.ru
 
 ---
 
