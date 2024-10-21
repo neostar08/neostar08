@@ -16,6 +16,16 @@ I'm **neostar08**, a passionate programmer focused on building robust applicatio
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neostar08&layout=compact&theme=dark)
 
 ---
+## 🔧 Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TortoiseGit](https://img.shields.io/badge/TortoiseGit-4EAA25?style=for-the-badge&logo=tortoisegit&logoColor=white)
+
+---
 
 ## 🛠️ Technologies I Use:
 
